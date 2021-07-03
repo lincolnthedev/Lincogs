@@ -1,0 +1,7 @@
+{
+    "author" : ["lincolnthedev"],
+    "install_msg" : "**THIS IS NOT A REAL COG** JUST A TEMPLATE I USE WHEN DEVELOPING COGS",
+    "name" : "Template",
+    "short" : "My cog template",
+    "description" : "My cog template"
+}
